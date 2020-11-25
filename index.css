@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: sans-serif
+  font-family: sans-serif;
 }
 
 main {
@@ -30,10 +30,12 @@ p {
   line-height: 80px;
 }
 
-.fizz, .fizzbuzz {
+.fizz,
+.fizzbuzz {
   border: 4px solid green;
 }
 
-.buzz, .fizzbuzz {
-  background-color: #D5F5E3;
+.buzz,
+.fizzbuzz {
+  background-color: #d5f5e3;
 }
